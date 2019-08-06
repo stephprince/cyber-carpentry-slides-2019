@@ -1,7 +1,7 @@
 # slides-2019
 Slides and presentation materials for the 2019 workshop
 
-# additional github tutorials we used
+# additional tutorials/slides we used
 [Containers](https://github.com/sanjanasudarshan/container_camp_workshop_2019)
 
 [Jetstream API](https://github.com/sanjanasudarshan/JetstreamAPITutorial_PEARC19)
