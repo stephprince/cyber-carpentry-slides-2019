@@ -16,11 +16,17 @@ The articles below are further resources on organizing analyses and projects.
 ## slide contents
 
 [slides-day01](slides-day01): overview, metadata
+
 [slides-day02](slides-day02): high performance computing with Jetstream (using NSF computing clusters)
+
 [slides-day03](slides-day03): scientific data portals (guidelines and examples of sharing datasets)
+
 [slides-day04](slides-day04): making workflows (tools to automate your processing stream)
+
 [slides-day05](slides-day05): machine learning with neural networks 
+
 [slides-day06](slides-day06): machine learning with keras 
+
 [slides-day09](slides-day09): data management plans
 
 ## additional tutorials/slides we used that are not included in the folders above
