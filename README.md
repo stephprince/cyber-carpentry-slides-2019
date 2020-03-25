@@ -11,7 +11,9 @@ The two articles below are **my favorite resources**. I would also look at the a
 The articles below are further resources on organizing analyses and projects. 
   
 - [Reproducibility using continuous analysis](https://www.nature.com/articles/nbt.3780): this article is kind of like the 'next level' after applying the good enough and best practices. This allows for your analysis to work continuously anytime the source code or data changes and is great for sharing analyses and reproducibility.
+- [A quick guide to organizing computational biology projects](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424): this article is a guid for making folder structures for your project
 - [Organizing a data science project](https://drivendata.github.io/cookiecutter-data-sciencee): this article is geared more towards data science projects, but also suggests how to organize a project
+- [Harvard Research Data Management](https://researchdatamanagement.harvard.edu/best-practices-organizing-documenting-research-data): this site has several pages for data management throughought the data life cycle 
 
 ## slide contents
 
